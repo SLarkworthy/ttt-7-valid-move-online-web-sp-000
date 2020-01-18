@@ -1,3 +1,4 @@
+def valid_move
 # code your #valid_move? method here
 
 
