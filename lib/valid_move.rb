@@ -1,4 +1,4 @@
-def valid_move?(board, index)
+def valid_move?
   index.between?(0, 8) && !position_taken?
 end
 
